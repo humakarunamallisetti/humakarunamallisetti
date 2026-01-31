@@ -1,5 +1,5 @@
 # 💫 About Me:
-IComputer Science Engineering graduate specialized in Artificial Intelligence and Machine Learning in 2025.<br>Strong interest in Python Programming and problem solving.<br>worked on Academic projects IoT Enabled Land Digging and Seed Sowing for Efficient Agriculture and second project is Age and Gender Detection using Machine Learning.<br>knowledge in SQL.<br>Passionate about learning new technologies.<br>Career goal is to become a skilled software professional and grow in the tech industry.
+Computer Science Engineering graduate specialized in Artificial Intelligence and Machine Learning in 2025.<br>Strong interest in Python Programming and problem solving.<br>worked on Academic projects IoT Enabled Land Digging and Seed Sowing for Efficient Agriculture and second project is Age and Gender Detection using Machine Learning.<br>knowledge in SQL.<br>Passionate about learning new technologies.<br>Career goal is to become a skilled software professional and grow in the tech industry.
 
 
 ## 🌐 Socials:
